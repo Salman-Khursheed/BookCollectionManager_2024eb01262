@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Brand Colors -->
+    <color name="primaryDark">#1A237E</color>
+    <color name="primary">#283593</color>
+    <color name="primaryLight">#3949AB</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accentLight">#FFB300</color>
+
+    <!-- Backgrounds -->
+    <color name="backgroundPage">#F3F4F8</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="inputBackground">#EEF0F8</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#1A1A2E</color>
+    <color name="textSecondary">#555B7E</color>
+    <color name="textHint">#9AA0C0</color>
+    <color name="textOnPrimary">#FFFFFF</color>
+
+    <!-- Delete -->
+    <color name="deleteRed">#E53935</color>
+    <color name="deleteRedLight">#FFEBEE</color>
+
+    <!-- Divider -->
+    <color name="divider">#E0E3F0</color>
+
+    <!-- Legacy -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>

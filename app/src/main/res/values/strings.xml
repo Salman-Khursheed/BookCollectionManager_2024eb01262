@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">BookCollectionManager_2024eb01262</string>
+    <string name="app_name">Book Collection</string>
+    <string name="label_book_title">Book Title</string>
+    <string name="label_author">Author Name</string>
+    <string name="hint_book_title">Enter book title…</string>
+    <string name="hint_author">Enter author name…</string>
+    <string name="btn_save">Save Book</string>
+    <string name="btn_view">View My Collection</string>
+    <string name="toast_saved">📚 Book saved successfully!</string>
+    <string name="toast_fill_fields">Please fill in both fields</string>
+    <string name="toast_deleted">Book removed from collection</string>
+    <string name="empty_collection">No books yet.\nStart adding your favorites!</string>
+    <string name="books_title">My Collection</string>
+    <string name="delete_confirm_title">Remove Book?</string>
+    <string name="delete_confirm_message">Are you sure you want to remove this book from your collection?</string>
+    <string name="delete_confirm_yes">Remove</string>
+    <string name="delete_confirm_no">Cancel</string>
+    <string name="content_description_book_cover">Book cover icon</string>
+    <string name="content_description_delete">Delete book</string>
 </resources>
