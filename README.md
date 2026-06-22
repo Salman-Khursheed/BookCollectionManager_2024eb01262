@@ -7,6 +7,7 @@ Android SQLite application for managing a collection of books.
 - Store Book Title and Author Name
 - Save data using SQLite Database
 - View all saved books in a ListView
+- Delete the books in the collection
 
 ## Technologies Used
 - Kotlin
